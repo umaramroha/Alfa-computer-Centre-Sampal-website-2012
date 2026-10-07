@@ -1,0 +1,17 @@
+table { width: 100%; }
+img { margin: 0px; }
+.logo { background-color: yellow; width: 90px; height: 90px; text-align: center; }
+.logo img { box-shadow: 3px 3px 5px rgba(0,0,0,0.4); }
+.topheading { color: green; text-shadow: 4px 4px 0px yellow; }
+.spacing { width: 20px; }
+#menu { width: 100%; background-color: red; text-align: center; }
+#menu td { padding: 5px; cursor: pointer; }
+#menu a { text-decoration: none; color: white; font-weight: bold; }
+.mainbody { background-image: url(wmark.jpg); background-repeat: repeat; font-family: Arial, sans-serif; font-size: 10pt; padding: 10px; }
+div.heading { background: linear-gradient(to right, rgba(238,153,255,0.2), rgba(238,153,255,1)); font-family: Arial, sans-serif; margin-bottom: 15px; }
+div.heading h1 { color: red; font: bold 170% Arial, sans-serif; width: 90%; padding-left: 10px; padding-top: 10px; margin: 0; text-shadow: 3px 3px 0px #ffff00; }
+.small { font-size: 7pt; }
+.ads { background-color: #ffffcc; color: #00aa00; font-size: 9pt; }
+.ads1 { border: solid 1px white; }
+.adsdetails { background-color: orange; height: 40px; color: black; }
+.ads2 { font-size: 8pt; }
